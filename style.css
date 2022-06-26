@@ -1,0 +1,8 @@
+html, body {
+  height: 100%;
+  width: 100%;
+
+  /* Fix for top and left borders */
+  margin-left: 0px;
+  margin-top: 0px;
+}
